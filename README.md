@@ -16,7 +16,7 @@
 
       a {
         /* 
-        Underlined links are ugly :)
+        Underlined links should be removed sir. :)
        */
       }
 
