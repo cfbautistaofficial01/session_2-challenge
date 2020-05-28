@@ -1,13 +1,14 @@
 # session_2-challenge
 
 <style>
-      * {
+#      * {
         /* 
         -May want to add "border-box for "box-sizing so padding does not affect width
         -Reset margin and padding 
        */
       }
 
+#
       body {
         /* 
           -Background color is #344a72
